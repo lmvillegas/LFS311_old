@@ -20,6 +20,7 @@ Indices y tablas
 **Berkeley Internet Name Domain** implementa servidores de DNS para las operaciones con el sistema ating 
 
 * Dominios y Nombres de Dominios.
+
 los datos almacenados en el un domain name se identifican por `nombres de dominios` y son jerarquicos por lo que quiere decir que su estructura en si sola es organizada en arbol de acuerdo con los limites organizacionales o administrativos. Cada nodo denominado dominio, recibe una etiqueta. El nombre del dominio es una concatenacion de todas las etiquetas en la ruta desde el nodo hasta la raiz.
 Esto se representa de manera escrita como una cadena de etiquetas listadas de derecha a izquierda separadas por puntos. Una etiqueta debe ser unica en su dominio.
 
