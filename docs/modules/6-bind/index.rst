@@ -1,8 +1,8 @@
 Welcome to MODULE 6 - BIND documentation!
 ==================================
 
-## Domain Name Services
-========================
+# Domain Name Services
+
 
 .. toctree::
    :maxdepth: 2
