@@ -1,6 +1,9 @@
 Welcome to MODULE 6 - BIND documentation!
 ==================================
 
+## Domain Name Services
+========================
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
@@ -10,6 +13,8 @@ Welcome to MODULE 6 - BIND documentation!
 Indices and tables
 ==================
 
-       -- Who is Bind?
-       -- Why Bind to services dns
-       -- Hot to construct to dns services with bind
+      * Who is Bind?
+      * Why Bind to services dns
+      * Hot to construct to dns services with bind
+
+
