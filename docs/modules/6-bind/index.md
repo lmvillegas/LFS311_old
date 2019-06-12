@@ -7,12 +7,14 @@ Bienvenidos al Modulo 6 - BIND
 Indices y tablas
 ==================
 
-      * Que es BIND?
+      * Los Domain Name System *(DNS)*
       * Por que Utilizar Bind como Servicio de Domian Name
       * Como construir un DNS con bind
 
 
-	
+1.- los Domain Name Systems *(DNS)*
+El proposito de este documento es explicar la instalacion y mantenimiendo de BIND (Berkeley Internet Name Domain) software. comenzando por revisar los fundamentos del Sistema Nombre de Dominios (DNS) segun se relacionan con *BIND*.
+
 **Que es BIND?**
 -----------------	
 **Domain Name Service (DNS)**: Consuste en la sintaxis para especificar los nombres de las entidades en el internet de forma Jerarquica, las reglas utilizadas para delegar la autoridad sobre los nombres y el sistema de implementacion que en realidad asigna nombres  a direcciones de internet, los datos del DNS se mantienen en un grupo de bases de datos jerarquicas distribuidas.
