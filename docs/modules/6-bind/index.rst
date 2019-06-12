@@ -1,20 +1,17 @@
-Welcome to MODULE 6 - BIND documentation!
+Bienvenidos al Modulo 6 - BIND 
 ==================================
 
  Domain Name Services
 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-
-
-Indices and tables
+Indices y tablas
 ==================
 
-      * Who is Bind?
-      * Why Bind to services dns
-      * Hot to construct to dns services with bind
+      * Que es BIND?
+      * Por que Utilizar Bind como Servicio de Domian Name
+      * Como construir un DNS con bind
 
+
+	Que es BIND?
+	------------
 
