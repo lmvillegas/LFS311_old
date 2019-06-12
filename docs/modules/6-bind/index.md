@@ -12,8 +12,8 @@ Indices y tablas
       * Como construir un DNS con bind
 
 
-	Que es BIND?
-	===========
+	**Que es BIND?**
+	++++++++++++++++
 **Domain Name Service (DNS)**: Consuste en la sintaxis para especificar los nombres de las entidades en el internet de forma Jerarquica, las reglas utilizadas para delegar la autoridad sobre los nombres y el sistema de implementacion que en realidad asigna nombres  a direcciones de internet, los datos del DNS se mantienen en un grupo de bases de datos jerarquicas distribuidas.
 
 **Berkeley Internet Name Domain** implementa servidores de DNS para las operaciones con el sistema ating 
